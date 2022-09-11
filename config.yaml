@@ -84,12 +84,12 @@ params:
       - image: Marina Bay.jpg
         subtitle: MAM'23 Group Assignment
         title: Homework 1
-        url: blogs/aliquam
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: pic03.jpgs
         subtitle: Lorem Etiam Nullam
         title: Magna
         url: blogs/magna
